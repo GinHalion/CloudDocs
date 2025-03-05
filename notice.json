@@ -1,0 +1,13 @@
+{
+  "code":2,
+  "data":[
+  {
+    "noticeid":1,
+    "noticetitle":"官方通知",
+    "noticecontent":"全新版本的加密云文档，更好的体验，更安全的撰写。",
+    "noticeshow":true,
+    "noticetime":"2024-6-13"
+  }
+  ],
+  "msg":"获取成功"
+}
